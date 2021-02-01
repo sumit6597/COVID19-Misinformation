@@ -1,11 +1,11 @@
 
 
 This is the repository documenting the paper
-[A Fine Grained Analysis of Misonformation in COVID 19 Tweets](https://www.cmu.edu/ideas-social-cybersecurity/events/2020papers/raj-and-sumet_paper.pdf) (In proceeding with Springer Journal)
+[A Fine Grained Analysis of Misonformation in COVID 19 Tweets](https://www.cmu.edu/ideas-social-cybersecurity/events/2020papers/raj-and-sumet_paper.pdf) (In proceeding with a special issue of springer named “Computational and Mathematics Organization Theory”)
 by Sumit Kumar, Raj Ratn Pranesh, and Kathleen M. Carley.
 
 # COVID19-MISINFORMATION
-* A Fine Grained Analysis of misinformation of covid-19 related tweets using various language based model. This is an original implementation of paper "A Fine-Grained Analysis of Misinformaiton in COVID-19 Tweets" accepted for a special issue at Computational and Mathematics Organization Theory on Disinformation.
+*  This is an original implementation of paper "A Fine-Grained Analysis of Misinformaiton in COVID-19 Tweets". 
 # Cite
 If you find the baseline models code and results useful, please cite our paper:
 ```
