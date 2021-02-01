@@ -3,10 +3,7 @@ A Fine Grained Analysis of misinformation of covid-19 related tweets using vario
 
 # Cite
 
-@article{kumarfine,
-
-  title={A Fine-Grained Analysis of Misinformation in COVID-19 Tweets},
-  
-  author={Kumar, Sumit and Pranesh, Raj Ratn and Carley, Kathleen M}
+@article{kumarfine, title={A Fine-Grained Analysis of Misinformation in COVID-19 Tweets},
+         author={Kumar, Sumit and Pranesh, Raj Ratn and Carley, Kathleen M}
 }
 
