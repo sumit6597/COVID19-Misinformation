@@ -6,7 +6,7 @@ by Sumit Kumar, Raj Ratn Pranesh, and Kathleen M. Carley.
 
 # COVID19-MISINFORMATION
 *  This is an original implementation of paper "A Fine-Grained Analysis of Misinformaiton in COVID-19 Tweets". 
-# Cite
+# Citation
 If you find the baseline models code and results useful, please cite our paper:
 ```
 @article{kumarfine, title={A Fine-Grained Analysis of Misinformation in COVID-19 Tweets},
