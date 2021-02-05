@@ -9,8 +9,10 @@ by Sumit Kumar, Raj Ratn Pranesh, and Kathleen M. Carley.
 # Citation
 If you find the baseline models code and results useful, please cite our paper:
 ```
-@article{kumarfine, title={A Fine-Grained Analysis of Misinformation in COVID-19 Tweets},
-         author={Kumar, Sumit and Pranesh, Raj Ratn and Carley, Kathleen M}
+@inproceedings{Kumar2020AFA,
+  title={A Fine-Grained Analysis of Misinformation in COVID-19 Tweets},
+  author={Sumit Kumar},
+  year={2020}
 }
 ```
 
